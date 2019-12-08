@@ -8,6 +8,6 @@ app.get('/', function (req, res){
 
 app.use('/scripts', express.static(__dirname + '/node_modules/'));
 
-http.listen(3000, function(){
-    console.log('Listening on port 3000');
+http.listen(5000, function(){
+    console.log('Listening on port 5000');
 })
