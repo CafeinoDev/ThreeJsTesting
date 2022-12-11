@@ -9,7 +9,7 @@
   "author": "Andy S. Alvarado",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "three": "^0.111.0"
   }
 }
